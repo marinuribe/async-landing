@@ -1,0 +1,19 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinuribe/async-landing.git"
+  },
+  "author": "vic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinuribe/async-landing/issues"
+  },
+  "homepage": "https://github.com/marinuribe/async-landing#readme"
+}
